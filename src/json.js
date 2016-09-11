@@ -8,7 +8,7 @@ Avi Levy\
 <h2>\
 avius@uw.edu\
 <br>\
-Ph.D. student,\
+Ph.D. candidate,\
 <br>\
 <a href=\"http://depts.washington.edu/probab/Probability%20in%20Seattle%20people.html#gradstudents\">Combinatorial Probability</a>\
 </h4>\
